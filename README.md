@@ -1,36 +1,36 @@
-<h1 align="center">สวัสดีครับ 👋 ผม Supakit Khamjai (Sprite)</h1>
+<h1 align="center">Hi 👋 I'm Supakit Khamjai (Sprite)</h1>
 
 <p align="center">
-  <b>Full Stack Software Developer</b> · สาย AI automation &amp; product building 🚀
+  <b>Full Stack Software Developer</b> · building AI-powered automation &amp; products 🚀
 </p>
 
 <p align="center">
-  ชอบสร้างของที่ใช้งานได้จริง — เว็บแอป, ระบบอัตโนมัติด้วย AI agent, แชตบอต<br/>
-  และเครื่องมือเล็ก ๆ ที่แก้ปัญหาในชีวิตจริง
+  I love shipping things that actually get used — web apps, AI-agent automation,<br/>
+  chatbots, and small tools that solve real-life problems.
 </p>
 
 <p align="center">
-  💼 ประสบการณ์: <b>AIS</b> · <b>KBTG</b> · <b>Gosoft (CP ALL)</b> &nbsp;·&nbsp; 📄 มีงานตีพิมพ์ <b>IEEE</b>
+  💼 Experience: <b>AIS</b> · <b>KBTG</b> · <b>Gosoft (CP ALL)</b> &nbsp;·&nbsp; 📄 <b>IEEE</b> publication
 </p>
 
 <p align="center">
-  <a href="https://supakit.dev">🌐 supakit.dev</a> &nbsp;·&nbsp; 📍 Thailand
+  <a href="https://supakit.dev">🌐 supakit.dev</a> &nbsp;·&nbsp; 📍 Thailand &nbsp;·&nbsp; <a href="README.th.md">🇹🇭 อ่านภาษาไทย</a>
 </p>
 
 ---
 
-## 🚀 โปรเจกต์ที่กำลังทำ
+## 🚀 What I'm building
 
-| Project | คืออะไร | Tech |
+| Project | What it is | Tech |
 |---|---|---|
-| 🎬 **story_by_lek** | โรงงานผลิต **วิดีโอนิทานเด็ก** อัตโนมัติ ขับเคลื่อนด้วย Claude Code sub-agent 6 ตัว — ตั้งแต่เขียนบท → สร้างรูป AI → QA → ตัดต่อ → อัปโหลด TikTok/Reels/Shorts | `Python` · Stable Diffusion · AI image-to-video · Neural TTS |
-| 🧾 **slipsense** | ระบบอ่าน/ตรวจ **สลิปโอนเงิน** อัตโนมัติผ่าน LINE bot — OCR ด้วย Google Vision + OpenAI | `Next.js` · Google Vision · OpenAI · LINE · Firebase |
-| 💍 **Wedly** | **การ์ดเชิญงานแต่งงานออนไลน์** สไตล์มินิมอล 5 ธีม สุ่มอนิเมชัน + ปักหมุด Google/Apple Maps | `Next.js` · `TypeScript` · Framer Motion |
-| 👨‍🍳 **resume-chef-eak** | เว็บ **เรซูเม่สำหรับเชฟโรงแรม** โหลดข้อมูลจาก Excel + แกลเลอรีผลงาน | `Next.js` · Tailwind · Framer Motion |
-| 💼 **supakit.dev** | เว็บ **เรซูเม่ส่วนตัว** ธีม dark terminal · ดาวน์โหลด PDF ได้ | `React` · `TypeScript` |
-| 📈 **gold-traning-bot** | **บอตเทรดทอง** (อยู่ระหว่างพัฒนา) | Bot · Automation |
+| 🎬 **story_by_lek** | An automated **kids' story-video studio** powered by 6 Claude Code sub-agents — from scriptwriting → AI image generation → QA → editing → publishing to TikTok/Reels/Shorts | `Python` · Stable Diffusion · AI image-to-video · Neural TTS |
+| 🧾 **slipsense** | Automatic **bank-transfer slip** reading & verification via a LINE bot — OCR with Google Vision + OpenAI | `Next.js` · Google Vision · OpenAI · LINE · Firebase |
+| 💍 **Wedly** | Minimal **online wedding invitations** — 5 themes, randomized animations, Google/Apple Maps pin | `Next.js` · `TypeScript` · Framer Motion |
+| 👨‍🍳 **resume-chef-eak** | A **resume web app for hotel chefs** — Excel-driven data + portfolio gallery | `Next.js` · Tailwind · Framer Motion |
+| 💼 **supakit.dev** | My **personal resume site** — dark terminal theme, downloadable PDF | `React` · `TypeScript` |
+| 📈 **gold-traning-bot** | A **gold trading bot** (work in progress) | Bot · Automation |
 
-> 🔒 หลายโปรเจกต์ยังเป็น private repo — ทักมาได้เลยถ้าอยากดู demo หรือโค้ดครับ
+> 🔒 Several projects are still private repos — feel free to reach out if you'd like a demo or a look at the code.
 
 ---
 
@@ -51,14 +51,14 @@
 
 ## 📊 GitHub Stats
 
-<!-- เปิด Settings > Profile > "Include private contributions on my profile" เพื่อให้การ์ดนับ commit จาก private repo ด้วย -->
+<!-- Turn on Settings > Profile > "Include private contributions on my profile" so the card counts commits from private repos too -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dspm-plus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
 </p>
 
 ---
 
-## 📫 ติดต่อ
+## 📫 Get in touch
 
 <p align="center">
   <a href="https://supakit.dev">🌐 Website</a> &nbsp;·&nbsp;
